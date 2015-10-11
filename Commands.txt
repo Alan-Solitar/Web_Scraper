@@ -1,0 +1,13 @@
+	command: effect	
+	"run":run_downloader,
+	"add_title":add titles,
+	"remove_title":del titles,
+	"add_provider":add providers,
+	"remove_provider":del providers,
+	"clear_all":clear all,
+	"clear_providers":clear providers,
+	"clear_titles":clear titles,
+	"providers":display providers,
+	"titles":display titles,
+	"save":save,
+	"exit":exit_program
