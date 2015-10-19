@@ -1,3 +1,4 @@
+#Copyright 2015, Alan Solitar, All rights reserved.
 from downloader import downloader
 import downloader_settings
 import pickle
