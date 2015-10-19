@@ -1,4 +1,4 @@
-	command: effect	
+	command: action
 	"run":run_downloader,
 	"add_title":add titles,
 	"remove_title":del titles,
