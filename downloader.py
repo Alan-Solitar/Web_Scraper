@@ -1,3 +1,4 @@
+#Copyright 2015, Alan Solitar, All rights reserved.
 from selenium import webdriver
 from bs4 import BeautifulSoup
 import  urllib.request
