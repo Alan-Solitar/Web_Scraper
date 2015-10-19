@@ -1,3 +1,4 @@
+#Copyright 2015, Alan Solitar, All rights reserved.
 import pickle
 import os
 def write_list(text_file, a_list):
